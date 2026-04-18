@@ -6,7 +6,7 @@ target/
 
 
 ### Token Config ###
-./src/resources/config.properties
+main/resources/config.properties
 
 
 ### IntelliJ IDEA ###
